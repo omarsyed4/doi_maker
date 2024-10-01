@@ -1,0 +1,226 @@
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\C1.WPF.4.6.2.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\C1.WPF.Input.4.6.2.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.Core.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\C1.WPF.4.6.2.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\C1.WPF.Input.4.6.2.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\NAudio.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ar\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\cs\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\da\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\de\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\el\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\es\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\fi\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\fr\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\he\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\it\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ja\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ko\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\nl\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\no\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\pl\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\pt\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ro\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\sk\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\sv\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\tr\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh-Hans\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh-Hant\C1.WPF.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ar\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\cs\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\da\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\de\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\el\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\es\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\fi\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\fr\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\he\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\it\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ja\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ko\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\nl\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\no\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\pl\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\pt\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ro\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\sk\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\sv\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\tr\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh-Hans\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh-Hant\C1.WPF.Input.4.6.2.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\14074\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.Core.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\NAudio.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\14074\Desktop\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.Core.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.Midi.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.Wasapi.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.WinForms.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.WinMM.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Buffers.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Collections.Immutable.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Memory.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Security.AccessControl.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\NAudio.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Buffers.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Collections.Immutable.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Memory.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Security.AccessControl.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\nl-BE\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1_Content.g.cs
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.exe.licenses
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\omars\source\repos\WPF app1\WpfApp1\obj\Debug\WpfApp1.pdb

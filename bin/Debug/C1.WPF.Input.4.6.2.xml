@@ -1,0 +1,1316 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>C1.WPF.Input.4.6.2</name>
+    </assembly>
+    <members>
+        <member name="T:C1.WPF.Input.TagEditedEventArgs">
+            <summary>
+            Provides data for the <see cref="E:C1.WPF.Input.C1TagEditor.TagEdited"/> event.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.TagEditedEventArgs.#ctor(System.String)">
+            <summary>
+            Creates an instance of the <see cref="T:C1.WPF.Input.TagEditedEventArgs"/> class.
+            </summary>
+            <param name="text">
+            The current text.
+            </param>
+        </member>
+        <member name="P:C1.WPF.Input.TagEditedEventArgs.Text">
+            <summary>
+            Gets the current text.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.TagEditedEventHandler">
+            <summary>
+            Represents the method that handles the <see cref="E:C1.WPF.Input.C1TagEditor.TagEdited"/> event.
+            </summary>
+            <param name="sender">
+            The event sender.
+            </param>
+            <param name="e">
+            The event data.
+            </param>
+        </member>
+        <member name="T:C1.WPF.Input.TextEditedEventArgs">
+            <summary>
+            Provides data for the <see cref="!:C1TextEditor.TextEdited"/> event.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.TextEditedEventArgs.#ctor(System.String)">
+            <summary>
+            Creates an instance of the <see cref="T:C1.WPF.Input.TextEditedEventArgs"/> class.
+            </summary>
+            <param name="text">
+            The current text.
+            </param>
+        </member>
+        <member name="P:C1.WPF.Input.TextEditedEventArgs.Text">
+            <summary>
+            Gets the current text.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.TextEditedEventHandler">
+            <summary>
+            Represents the method that handles the <see cref="!:C1TextEditor.TextEdited"/> event.
+            </summary>
+            <param name="sender">
+            The event sender.
+            </param>
+            <param name="e">
+            The event data.
+            </param>
+        </member>
+        <member name="T:C1.WPF.Input.C1CheckList">
+            <summary>
+            A list-based control with optional check boxes for each item, different selection modes and ability to select/unselect all items.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.OnMaxSelectedItemsChanged(System.Int32)">
+            <summary>
+            Callback function handle event chnage MaxSelectedItems
+            </summary>
+            <param name="oldValue"></param>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.SelectAll">
+            <summary>
+            Selects all the items in a <see cref="T:C1.WPF.Input.C1CheckList"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.UnselectAll">
+            <summary>
+            Clears all the selection in a <see cref="T:C1.WPF.Input.C1CheckList"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.ChangeVisualStateShowCaptionState(System.Boolean)">
+            <summary>
+            Updates the current visual state of the ShowCaptionState visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.CheckedMemberPath">
+            <summary>
+            Gets or sets the name of the property used to control the checkboxes placed next to each item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.CheckedMemberPathProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.CheckedMemberPath"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.DisabledMemberPath">
+            <summary>
+            Gets or sets the name of the property used to control the enable or disable status to each item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.DisabledMemberPathProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.DisabledMemberPath"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.ShowCheckBoxes">
+            <summary>
+            Gets or sets a value that indicates whether to show the checkboxes for items.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.ShowCheckBoxesProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.ShowCheckBoxes"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.ShowSelectAll">
+            <summary>
+            Gets or sets a value that indicates whether show select all UI or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.ShowSelectAllProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.ShowSelectAll"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.CaptionStyle">
+            <summary>
+            Gets or sets a style used for caption CheckBox.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.CaptionStyleProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.CaptionStyle"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.SelectAllCaption">
+            <summary>
+            Gets or sets the caption for checkbox when execute SelectAll.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.SelectAllCaptionProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.SelectAllCaption"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.UnSelectAllCaption">
+            <summary>
+            Gets or sets the caption for checkbox when execute UnSelectAll.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.UnSelectAllCaptionProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.UnSelectAllCaption"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.MaxSelectedItems">
+            <summary>
+            Gets or sets the maximum number of items to selected on the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.MaxSelectedItemsProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.MaxSelectedItems"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.SelectedBackground">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it is selected.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.SelectedBackgroundProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.SelectedBackground"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckList.MouseOverBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it has the mouse over.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckList.MouseOverBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckList.MouseOverBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.#ctor">
+            <summary>
+            Initializes a new instance of a <see cref="T:C1.WPF.Input.C1CheckList"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckList.OnApplyTemplate">
+            <summary>
+            Builds the visual tree for the <see cref="T:C1.WPF.Input.C1CheckList"/> control when a new template is applied.
+            </summary>
+            <remarks>
+            This method is invoked whenever application code or an internal process, such as a rebuilding layout pass, calls the <see cref="M:ApplyTemplate"/> method.
+            </remarks>
+        </member>
+        <member name="T:C1.WPF.Input.SelectedState">
+            <summary>
+            Define selected item state
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.C1MultiSelect">
+            <summary>
+            A <see cref="T:C1.WPF.Input.C1TagEditor"/> as base editor with <see cref="T:C1.WPF.Input.C1CheckList"/> as drop-down.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.OnMaxSelectedItemsChanged(System.Int32)">
+            <summary>
+            Callback function handle event chnage MaxSelectedItems
+            </summary>
+            <param name="oldValue"></param>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.ListBox">
+            <summary>
+            Get <see cref="T:C1.WPF.Input.C1CheckList"/> in drop down.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.Items">
+            <summary>
+            Gets the collection used to generate the content of the ItemsControl.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.GroupStyle">
+            <summary>
+            Gets a collection of GroupStyle objects that define the appearance of each level of groups.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsGrouping">
+            <summary>
+            Gets a value that indicates whether the control is using grouping.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedItems">
+            <summary>
+            Gets the currently selected items.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.UpdateSelectedItemsFollowMaxSelectedItems(System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Remove the number added item bigger than MaxSelectedItems
+            </summary>
+            <param name="addedItems"></param>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.SelectAll">
+            <summary>
+            Selects all the items in a <see cref="T:C1.WPF.Input.C1MultiSelect"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.UnselectAll">
+            <summary>
+            Clears all the selection in a <see cref="T:C1.WPF.Input.C1MultiSelect"/>.
+            </summary>
+        </member>
+        <member name="E:C1.WPF.Input.C1MultiSelect.SelectionChanged">
+            <summary>
+            Occurs when the selection of a C1MultiSelect changes.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.OnSelectionChanged(System.Object,System.Windows.Controls.SelectionChangedEventArgs)">
+            <summary>
+            Called when the selection changed.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.ChangeVisualStateHeaderFormat(System.Boolean)">
+            <summary>
+            Updates the current visual state of the HeaderFormat visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.ChangeVisualStateCommon(System.Boolean)">
+            <summary>
+            Updates the current visual state of the Common visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsDroppedDown">
+            <summary>
+            Gets or sets a value that indicates whether the drop down is currently visible.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.IsDroppedDownProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.IsDroppedDown"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.ShowDropDownButton">
+            <summary>
+            Gets or sets a value that indicates whether the control should display a drop-down button.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.ShowDropDownButtonProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.ShowDropDownButton"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.AutoSuggestMode">
+            <summary>
+            Gets or sets a value that indicates the condition of filtering.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.AutoSuggestModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.AutoSuggestMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.Separator">
+            <summary>
+            Gets or sets string which is used as separator in multi-select mode.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SeparatorProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.Separator"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.CheckedMemberPath">
+            <summary>
+            Gets or sets the name of the property used to control the checkboxes placed next to each item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.CheckedMemberPathProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.CheckedMemberPath"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.DisabledMemberPath">
+            <summary>
+            Gets or sets the name of the property used to control the enable or disable status to each item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.DisabledMemberPathProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.DisabledMemberPath"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.PlaceHolder">
+            <summary>
+            Gets or sets the string shown as a hint when the control is empty.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.PlaceHolderProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.PlaceHolder"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MaxHeaderItems">
+            <summary>
+            Gets or sets the maximum number of items to display on the control header.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MaxHeaderItemsProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MaxHeaderItems"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.ShowCheckBoxes">
+            <summary>
+            Gets or sets a value that indicates whether to show checkboxes for items in dropdown.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.ShowCheckBoxesProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.ShowCheckBoxes"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsTagEditable">
+            <summary>
+            Gets or sets a value that determines whether the tags are editable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.IsTagEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.IsTagEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MaxDropDownHeight">
+            <summary>
+            Gets or sets maximum height constraint of the drop-down box.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MaxDropDownHeightProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MaxDropDownHeight"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MaxDropDownWidth">
+            <summary>
+            Gets or sets maximum width constraint of the drop-down box.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MaxDropDownWidthProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MaxDropDownWidth"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.DisplayMode">
+            <summary>
+            Gets or sets a value that indicates whether to show tags or text. 
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.DisplayModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.DisplayMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.HeaderFormat">
+            <summary>
+            Gets or sets the format string used to create the header content when the control has more than MaxHeaderItems items selected.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.HeaderFormatProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.HeaderFormat"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.ShowSelectAll">
+            <summary>
+            Gets or sets a value that indicates whether show select all UI or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.ShowSelectAllProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.ShowSelectAll"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectAllCaption">
+            <summary>
+            Gets or sets the caption for checkbox when execute SelectAll.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectAllCaptionProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectAllCaption"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.UnSelectAllCaption">
+            <summary>
+            Gets or sets the caption for checkbox when execute UnSelectAll.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.UnSelectAllCaptionProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.UnSelectAllCaption"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.CaptionStyle">
+            <summary>
+            Gets or sets a style used for caption CheckBox.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.CaptionStyleProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.CaptionStyle"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsHeaderFormatVisible">
+            <summary>
+            Gets a value that indicates whether header format is shown.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.IsHeaderFormatVisibleProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.IsHeaderFormatVisible"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsEditable">
+            <summary>
+            Gets or sets a value that determines whether the content of the input element should be editable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.IsEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.IsEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.TagStyle">
+            <summary>
+            Gets or sets the style used for the tags in Tag mode.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.TagStyleProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.TagStyle"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.DropdownHeight">
+            <summary>
+            Gets or sets the height of the drop-down box (set to Double.NaN to size automatically).
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.DropdownHeightProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.DropdownHeight"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.DropdownWidth">
+            <summary>
+            Gets or sets the width of the drop-down box (set to Double.NaN to size automatically).
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.DropdownWidthProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.DropdownWidth"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectionMode">
+            <summary>
+            Gets or sets the selection behavior for the ListBox control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectionModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectionMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedValuePath">
+            <summary>
+            Gets or sets the property path that is used to get the SelectedValue property of the SelectedItem property.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectedValuePathProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectedValuePath"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedValue">
+            <summary>
+            Gets or sets the value of the selected item, obtained by using the SelectedValuePath.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectedValueProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectedValue"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedItem">
+            <summary>
+            Gets or sets the selected item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectedItemProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectedItem"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedIndex">
+            <summary>
+            Gets or sets the index of the selected item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectedIndexProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectedIndex"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.IsSynchronizedWithCurrentItem">
+            <summary>
+            Gets or sets a value that indicates whether a Selector should keep the SelectedItem synchronized with the current item in the Items property.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.IsSynchronizedWithCurrentItemProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.IsSynchronizedWithCurrentItem"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.AutoCompleteMode">
+            <summary>
+            Gets or sets an option that controls how automatic completion works for the C1MultiSelect.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.AutoCompleteModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.AutoCompleteMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MinDropDownHeight">
+            <summary>
+            Gets or sets minimum height constraint of the drop-down box.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MinDropDownHeightProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MinDropDownHeight"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MinDropDownWidth">
+            <summary>
+            Gets or sets minimum width constraint of the drop-down box.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MinDropDownWidthProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MinDropDownWidth"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.HighlightColor">
+            <summary>
+            Gets or sets the matched suggest text hightlight color.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.HighlightColorProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.HighlightColor"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.HighlightFontWeight">
+            <summary>
+            Gets or sets the matched suggest text font weight.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.HighlightFontWeightProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.HighlightFontWeight"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.Text">
+            <summary>
+            Gets the text shown in the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.TextProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.Text"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MaxSelectedItems">
+            <summary>
+            Gets or sets the maximum number of items to selected on the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MaxSelectedItemsProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MaxSelectedItems"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.SelectedBackground">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it is selected.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.SelectedBackgroundProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.SelectedBackground"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.MouseOverBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it has the mouse over.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.MouseOverBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.MouseOverBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.PressedBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to paint a button when it is pressed.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.PressedBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.PressedBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="E:C1.WPF.Input.C1MultiSelect.IsMouseOverChanged">
+            <summary> 
+            Event raised when the <see cref="P:IsMouseOver"/> property has changed.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1MultiSelect.ForceMouseOver">
+            <summary>
+            Set to true to force the mouse over visual state.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1MultiSelect.ForceMouseOverProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1MultiSelect.ForceMouseOver"/> dependency property. 
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.#ctor">
+            <summary>
+            Initializes a new instance of a <see cref="T:C1.WPF.Input.C1MultiSelect"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.OnApplyTemplate">
+            <summary>
+            Builds the visual tree for the <see cref="T:C1.WPF.Input.C1MultiSelect"/> control when a new template is applied.
+            </summary>
+            <remarks>
+            This method is invoked whenever application code or an internal process, such as a rebuilding layout pass, calls the <see cref="M:ApplyTemplate"/> method.
+            </remarks>
+        </member>
+        <member name="M:C1.WPF.Input.C1MultiSelect.OnPropertyChanged(System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Invoked whenever the effective value of any dependency property has been updated.
+            </summary>
+            <param name="e">
+            The event data that describes the property that changed, as well as old and new values.
+            </param>
+        </member>
+        <member name="T:C1.WPF.Input.C1Tag">
+            <summary>
+            Visual element used inside a <see cref="T:C1.WPF.Input.C1TagEditor"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.UpdateVisualState">
+            <summary>
+            Update the visual state of this control
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.IsDeletingText">
+            <summary>
+            Check reason of TextChange event is come from delete or add new
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="E:C1.WPF.Input.C1Tag.ContentUpdating">
+            <summary>
+            Occurs before a tag's content is updating.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.OnContentUpdating(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Occurs before a tag end edit.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.ComponentModel.CancelEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1Tag.RemoveButtonClicked">
+            <summary>
+            Occurs when remove button is clicked.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.OnRemoveButtonClicked(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Occurs when remove button is clicked.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1Tag.TagEdited">
+            <summary>
+            Occurs when a tag is edited.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.OnTagEdited(System.Object,C1.WPF.Input.TagEditedEventArgs)">
+            <summary>
+            Occurs when a tag is edited.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="P:C1.WPF.Input.C1Tag.IsInEditMode">
+            <summary>
+            Gets or sets a value indicates whether the control enters in edit mode or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1Tag.IsInEditModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1Tag.IsInEditMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1Tag.IsEditable">
+            <summary>
+            Gets or sets a value that enables or disables editing of the text in text box of the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1Tag.IsEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1Tag.IsEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1Tag.IsTagEditable">
+            <summary>
+            Gets or sets a value that determines whether the tag is editable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1Tag.IsTagEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1Tag.IsTagEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.#ctor">
+            <summary>
+            Initializes a new instance of a <see cref="T:C1.WPF.Input.C1Tag"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1Tag.OnApplyTemplate">
+            <summary>
+            Builds the visual tree for the <see cref="T:C1.WPF.Input.C1Tag"/> control when a new template is applied.
+            </summary>
+            <remarks>
+            This method is invoked whenever application code or an internal process, such as a rebuilding layout pass, calls the <see cref="M:ApplyTemplate"/> method.
+            </remarks>
+        </member>
+        <member name="T:C1.WPF.Input.C1TagEditor">
+            <summary>
+            A text box-based control with ability to display and edit tags.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.ChangeVisualStateCommon(System.Boolean)">
+            <summary>
+            Updates the current visual state of the Common visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.ChangeVisualStateFocus(System.Boolean)">
+            <summary>
+            Updates the current visual state of the Focus visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnMaxSelectedItemsChanged(System.Int32)">
+            <summary>
+            Callback function handle event change MaxSelectedItems
+            </summary>
+            <param name="oldValue"></param>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnIsEditableChanged(System.Boolean)">
+            <summary>
+            Callback function handle event change IsEditable
+            </summary>
+            <param name="oldValue"></param>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnIsTextReadOnlyChanged(System.Boolean)">
+            <summary>
+            Callback function handle event change IsTextReadOnly
+            </summary>
+            <param name="oldValue"></param>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.UpdateTextReadOnlyStatus">
+            <summary>
+            Update IsReadOnly status of text input
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.UpdateTextVisibleStatus">
+            <summary>
+            Hidden text eiditor in Tag DisplayMode and number Tags count > 0 to unfire event to text editor
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.InsertTag(System.String,System.Object)">
+            <summary>
+            Insert a tag at last.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.InsertTag(System.Int32,System.String,System.Object)">
+            <summary>
+            Insert a tag in a specific position.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.RemoveTagAt(System.Int32)">
+            <summary>
+            Remove a tag in a specific position.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.RemoveTag(C1.WPF.Input.C1Tag)">
+            <summary>
+            Remove a specific tag.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.ClearTags">
+            <summary>
+            Clear all tags.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.UpdateTextFromTags">
+            <summary>
+            Update Text according to the tags when DisplayMode is Text.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.ContainsTag(System.String)">
+            <summary>
+            Determines whether specified text already exists in tags collection.
+            </summary>
+            <param name="text">The <see cref="T:System.String"/> to search for.</param>
+            <returns>Return true if such tag already exists; False otherwise.</returns>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.SetEditorText(System.String)">
+            <summary>
+            Set the text of the inner editor.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.GetEditorText">
+            <summary>
+            Get the text of the inner editor.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.IsDeletingText">
+            <summary>
+            Check reason of TextChange event is come from delete or add new
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.Tags">
+            <summary>
+            Gets the string collection of tags.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.TagsProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.Tags"/> dependency property. 
+            </summary>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagEdited">
+            <summary>
+            Occurs when a tag is edited.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagEdited(System.Object,C1.WPF.Input.TagEditedEventArgs)">
+            <summary>
+            Occurs when a tag is edited.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TextEdited">
+            <summary>
+            Occurs when text is edited.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTextEdited(System.Object,C1.WPF.Input.TextEditedEventArgs)">
+            <summary>
+            Occurs when text is edited.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagInserted">
+            <summary>
+            Occurs when a tag is inserted.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagInserted(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Occurs when a tag is inserted.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagUpdating">
+            <summary>
+            Occurs before a tag is edited.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagUpdating(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Occurs before a tag is edited.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.ComponentModel.CancelEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagInserting">
+            <summary>
+            Occurs before a tag is inserted.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagInserting(System.Object,System.ComponentModel.CancelEventArgs)">
+            <summary>
+            Occurs before a tag is inserted.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.ComponentModel.CancelEventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagRemoved">
+            <summary>
+            Occurs when a tag is removed.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagRemoved(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Occurs when a tag is removed.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.TagExited">
+            <summary>
+            Occurs when a tag is exit edit mode.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnTagExited(System.Object,System.Windows.RoutedEventArgs)">
+            <summary>
+            Occurs when a tag is edited.
+            </summary>
+            <param name="sender">The sender.</param>
+            <param name="e">The <see cref="T:System.EventArgs"/> instance containing the event data.</param>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.PlaceHolder">
+            <summary>
+            Gets or sets the string shown as a hint when the control is empty.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.PlaceHolderProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.PlaceHolder"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.Text">
+            <summary>
+            Gets the text shown on the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.TextProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.Text"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.Separator">
+            <summary>
+            Gets or sets string which is used as separator in multi-select mode.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.SeparatorProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.Separator"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.DisplayMode">
+            <summary>
+            Gets or sets a value indicates whether to show tag mode or text mode. 
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.DisplayModeProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.DisplayMode"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.TagStyle">
+            <summary>
+            Gets or sets the style used for the tags.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.TagStyleProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.TagStyle"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.TagWrapping">
+            <summary>
+            Gets or sets a value indicates whether to wrap the tags or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.TagWrappingProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.TagWrapping"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.IsTagEditable">
+            <summary>
+            Gets or sets a value that determines whether the tags are editable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.IsTagEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.IsTagEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.IsEditable">
+            <summary>
+            Gets or sets a value that determines whether the content of the input element should be editable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.IsEditableProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.IsEditable"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.MaxSelectedItems">
+            <summary>
+            Gets or sets the maximum number of items to selected on the control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.MaxSelectedItemsProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.MaxSelectedItems"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.IsTextReadOnly">
+            <summary>
+            Gets or sets a value that determines whether the content of the input element should be enable or not.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.IsTextReadOnlyProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.IsTextReadOnly"/> dependency property. 
+            </summary>
+        </member>
+        <member name="E:C1.WPF.Input.C1TagEditor.IsMouseOverChanged">
+            <summary> 
+            Event raised when the <see cref="P:IsMouseOver"/> property has changed.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.ForceMouseOver">
+            <summary>
+            Set to true to force the mouse over visual state.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.ForceMouseOverProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.ForceMouseOver"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.IsFocused">
+            <summary>
+            Returns true if the control has the focus.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.IsFocusedProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.IsFocused"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.MouseOverBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it has the mouse over.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.MouseOverBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.MouseOverBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1TagEditor.FocusBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the focused control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1TagEditor.FocusBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1TagEditor.FocusBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.#ctor">
+            <summary>
+            Initializes a new instance of a <see cref="T:C1.WPF.Input.C1TagEditor"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnApplyTemplate">
+            <summary>
+            Builds the visual tree for the <see cref="T:C1.WPF.Input.C1TagEditor"/> control when a new template is applied.
+            </summary>
+            <remarks>
+            This method is invoked whenever application code or an internal process, such as a rebuilding layout pass, calls the <see cref="M:ApplyTemplate"/> method.
+            </remarks>
+        </member>
+        <member name="M:C1.WPF.Input.C1TagEditor.OnPropertyChanged(System.Windows.DependencyPropertyChangedEventArgs)">
+            <summary>
+            Invoked whenever the effective value of any dependency property has been updated.
+            </summary>
+            <param name="e">
+            The event data that describes the property that changed, as well as old and new values.
+            </param>
+        </member>
+        <member name="T:C1.WPF.Input.C1CheckListItem">
+            <summary>
+            Visual element used inside a <see cref="T:C1.WPF.Input.C1CheckList"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckListItem.ChangeVisualStateShowCheckBoxState(System.Boolean)">
+            <summary>
+            Updates the current visual state of the ShowCheckBoxState visual state group to match the object's properties.
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckListItem.ShowCheckBox">
+            <summary>
+            Gets or sets a value that indicates whether show the checkbox style for this item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckListItem.ShowCheckBoxProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckListItem.ShowCheckBox"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckListItem.SelectedBackground">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it is selected.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckListItem.SelectedBackgroundProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckListItem.SelectedBackground"/> dependency property. 
+            </summary>
+        </member>
+        <member name="P:C1.WPF.Input.C1CheckListItem.MouseOverBrush">
+            <summary>
+            Gets or sets the <see cref="T:System.Windows.Media.Brush" /> used to highlight the control when it has the mouse over.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.C1CheckListItem.MouseOverBrushProperty">
+            <summary>
+            Identifies the <see cref="P:C1.WPF.Input.C1CheckListItem.MouseOverBrush"/> dependency property. 
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckListItem.#ctor">
+            <summary>
+            Initializes a new instance of a <see cref="T:C1.WPF.Input.C1CheckListItem"/>.
+            </summary>
+        </member>
+        <member name="M:C1.WPF.Input.C1CheckListItem.OnApplyTemplate">
+            <summary>
+            Builds the visual tree for the <see cref="T:C1.WPF.Input.C1CheckListItem"/> control when a new template is applied.
+            </summary>
+            <remarks>
+            This method is invoked whenever application code or an internal process, such as a rebuilding layout pass, calls the <see cref="M:ApplyTemplate"/> method.
+            </remarks>
+        </member>
+        <member name="T:C1.WPF.Input.DisplayMode">
+            <summary>
+            Defines how to display text of control.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.DisplayMode.Text">
+            <summary>
+            Display text with separator between each item.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.DisplayMode.Tag">
+            <summary>
+            Display tags for each item.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.SuggestMode">
+            <summary>
+            Defines how to filter the items of MultiSelect.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.SuggestMode.StartWith">
+            <summary>
+            Select the item which start with the input text.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.SuggestMode.Contains">
+            <summary>
+            List the items which contains the input text.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.SuggestMode.None">
+            <summary>
+            Don't filter the items.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.AutoCompleteMode">
+            <summary>
+            Specifies the mode for the automatic completion feature used in the <see cref="T:C1.WPF.Input.C1MultiSelect"/> controls.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.AutoCompleteMode.None">
+            <summary>
+            Disables the automatic completion feature for the <see cref="T:C1.WPF.Input.C1MultiSelect"/> controls.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.AutoCompleteMode.Append">
+            <summary>
+            Appends the remainder of the most likely candidate string to the existing characters, highlighting the appended characters.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.AutoCompleteMode.Suggest">
+            <summary>
+            Displays the auxiliary drop-down list associated with the edit control. This drop-down is populated with one or more suggested completion strings.
+            </summary>
+        </member>
+        <member name="F:C1.WPF.Input.AutoCompleteMode.SuggestAppend">
+            <summary>
+            Applies both <see cref="F:C1.WPF.Input.AutoCompleteMode.Append"/> and <see cref="F:C1.WPF.Input.AutoCompleteMode.Suggest"/> options.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.CaptionEnableConverter">
+            <summary>
+            A <see cref="T:System.Windows.Data.IValueConverter"/> used to converter <see cref="T:C1.WPF.C1SelectionMode"/> to IsEnable property.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.InverseBooleanConverter">
+            <summary>
+            A <see cref="T:System.Windows.Data.IValueConverter"/> used to converter <see cref="P:C1.WPF.Input.C1TagEditor.IsEditable"/> to IsReadOnly property.
+            </summary>
+        </member>
+        <member name="T:C1.WPF.Input.LimitSelectedList">
+            <summary>
+            Inherit IList inteface and limit max number item add to list
+            default is -1: unlimit item add
+            </summary>
+        </member>
+        <member name="T:C1.Silverlight.Input.Resources.C1_Silverlight_Input">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:C1.Silverlight.Input.Resources.C1_Silverlight_Input.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:C1.Silverlight.Input.Resources.C1_Silverlight_Input.CheckList_SelectAllCaption">
+            <summary>
+              Looks up a localized string similar to Select All.
+            </summary>
+        </member>
+        <member name="P:C1.Silverlight.Input.Resources.C1_Silverlight_Input.CheckList_UnSelectAllCaption">
+            <summary>
+              Looks up a localized string similar to UnSelect All.
+            </summary>
+        </member>
+        <member name="P:C1.Silverlight.Input.Resources.C1_Silverlight_Input.Separator_ArgumentException">
+            <summary>
+              Looks up a localized string similar to Cannot set value to an empty string!.
+            </summary>
+        </member>
+    </members>
+</doc>
